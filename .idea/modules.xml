@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Latihan3.1_PlaylistLagu.iml" filepath="$PROJECT_DIR$/.idea/Latihan3.1_PlaylistLagu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Latihan3.1_playlistlagu/Latihan3.1_playlistlagu.iml" filepath="$PROJECT_DIR$/Latihan3.1_playlistlagu/Latihan3.1_playlistlagu.iml" />
+    </modules>
+  </component>
+</project>
